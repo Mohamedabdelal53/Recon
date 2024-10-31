@@ -1,0 +1,2 @@
+https://site.ring.com/mobile/authorize?return=http%3A%2F%2Fipb6zuh2h2o2pko0bhqnfe77yy4qskg9.oastify.com
+https://oauth.ring.com/oauth/authorize?client_id=http%3A%2F%2Fipb6zuh2h2o2pko0bhqnfe77yy4qskg9.oastify.com&redirect_uri=http%3A%2F%2Fipb6zuh2h2o2pko0bhqnfe77yy4qskg9.oastify.com&response_type=http%3A%2F%2Fipb6zuh2h2o2pko0bhqnfe77yy4qskg9.oastify.com&scope=http%3A%2F%2Fipb6zuh2h2o2pko0bhqnfe77yy4qskg9.oastify.com&service=http%3A%2F%2Fipb6zuh2h2o2pko0bhqnfe77yy4qskg9.oastify.com&state=http%3A%2F%2Fipb6zuh2h2o2pko0bhqnfe77yy4qskg9.oastify.com

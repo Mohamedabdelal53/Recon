@@ -1,0 +1,18 @@
+GET /?to=http%3A%2F%2F2fi8eqhvszhs1wpe2kuejoqzaqgi49sy.oastify.com HTTP/1.1
+Host: r.klarna.com
+Cookie: _gcl_au=1.1.360567078.1729899933; _scid=AhwH5kyk0lr3-6lEuvbavhohw2Af9FiQ; _scid_r=AhwH5kyk0lr3-6lEuvbavhohw2Af9FiQ; _ScCbts=%5B%5D; _sctr=1%7C1729828800000
+Sec-Ch-Ua: "Not?A_Brand";v="99", "Chromium";v="130"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Linux"
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.59 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+Connection: keep-alive
+

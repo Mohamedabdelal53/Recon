@@ -1,0 +1,10 @@
+auth2.onepeloton.com
+auth2-stage.onepeloton.com
+auth.onepeloton.com
+auth-stage.onepeloton.com
+auth-orca.onepeloton.com
+qa1-cms.onepeloton.com
+cosmos.onepeloton.com
+cosmos-stage.onepeloton.com
+cms.onepeloton.com
+auth-test.onepeloton.com

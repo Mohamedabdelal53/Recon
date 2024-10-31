@@ -1,0 +1,16 @@
+www.mercadopago.com.uy
+www.mercadopago.com.pe
+www.mercadopago.com.mx
+www.mercadopago.com.co
+www.mercadopago.com.br
+www.mercadopago.com.ar
+www.mercadopago.cl
+www.mercadolivre.com.br
+www.mercadolibre.com.uy
+www.mercadolibre.com.pe
+www.mercadolibre.com.mx
+www.mercadolibre.com.co
+www.mercadolibre.com.ar
+www.mercadolibre.cl
+api.mercadopago.com
+api.mercadolibre.com

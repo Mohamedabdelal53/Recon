@@ -1,0 +1,3 @@
+2024-10-28 06:40:34,009 - Running subfinder on wellsfargo.com
+2024-10-28 06:40:55,925 - Subfinder output saved to subdomains.txt
+2024-10-28 06:40:55,926 - Running httprobe on subdomains.txt
