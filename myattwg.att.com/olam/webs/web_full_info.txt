@@ -1,0 +1,45 @@
+{
+  "timestamp": "2024-11-07T14:08:29.086007174-06:00",
+  "hash": {
+    "body_md5": "b9390f619f162d79a825516056a126d2",
+    "body_mmh3": "-97270846",
+    "body_sha256": "6cf104a64613d3411b888111a10f34c2af8ea72a9d03661d405a809ae563c6e9",
+    "body_simhash": "9814396149870737341",
+    "header_md5": "0e98ab234af04e6ac822cd854cdf568a",
+    "header_mmh3": "1133732551",
+    "header_sha256": "043c244f34241e30de32e4ecda37dbee0a3e17c90161202e3eed7917cb759b59",
+    "header_simhash": "9868124688724246508"
+  },
+  "port": "443",
+  "url": "https://myattwg.att.com/olam/",
+  "input": "myattwg.att.com/olam/",
+  "title": "AT&T",
+  "scheme": "https",
+  "content_type": "text/html",
+  "method": "GET",
+  "host": "184.31.3.229",
+  "path": "/olam/",
+  "time": "400.494591ms",
+  "a": [
+    "184.31.3.229",
+    "2600:1480:2000:103::"
+  ],
+  "cname": [
+    "lsreg.att.com.edgekey.net",
+    "lsreg.att.com.splitter-eip.akadns.net",
+    "lsreg.att.com.eip.akadns.net",
+    "eip-tata.lsreg.att.com.akahost.net"
+  ],
+  "tech": [
+    "HSTS"
+  ],
+  "words": 6054,
+  "lines": 976,
+  "status_code": 404,
+  "content_length": 250301,
+  "failed": false,
+  "knowledgebase": {
+    "PageType": "nonerror",
+    "pHash": 0
+  }
+}

@@ -1,0 +1,34 @@
+[waf-detect:akamai] [http] [info] https://myattwg.att.com/olam/
+[waf-detect:akamai] [http] [info] https://myattwg.att.com/olam/
+[request-based-interaction:dns] [http] [info] myattwg.att.com/olam/
+[tls-version] [ssl] [info] myattwg.att.com:443 ["tls12"]
+[tls-version] [ssl] [info] myattwg.att.com:443 ["tls13"]
+[http-missing-security-headers:content-security-policy] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:x-frame-options] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:x-content-type-options] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:clear-site-data] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:permissions-policy] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:referrer-policy] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:permissions-policy] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:x-frame-options] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:clear-site-data] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:content-security-policy] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:x-content-type-options] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:referrer-policy] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://myattwg.att.com/olam/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://myattwg.att.com/olam/
+[akamai-detect] [http] [info] https://myattwg.att.com/olam/
+[akamai-detect] [http] [info] https://myattwg.att.com/olam/
+[missing-csp] [http] [info] https://myattwg.att.com/olam/
+[missing-csp] [http] [info] https://myattwg.att.com/olam/
+[dns-saas-service-detection:akamai-cdn] [dns] [info] myattwg.att.com ["lsreg.att.com.edgekey.net"]
+[caa-fingerprint] [dns] [info] myattwg.att.com/olam/
+[caa-fingerprint] [dns] [info] myattwg.att.com
+[ssl-issuer] [ssl] [info] myattwg.att.com:443 ["DigiCert Inc"]
+[ssl-dns-names] [ssl] [info] myattwg.att.com:443 ["identity.test.att.com","lsreg.att.com","ebond.att.com","eidp.att.com","myattwg.att.com","test-lsreg.att.com","attreg.att.net","eidp-test.att.com","identity.att.com","lsreg.att.net","myattwg-test.att.com","ebondstaging.att.com","identity.atttest.com","identity.stage.att.com"]

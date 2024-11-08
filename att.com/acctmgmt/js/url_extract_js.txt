@@ -1,0 +1,13 @@
+https://www.att.com/acctmgmt/manifest.json
+https://www.att.com/acctmgmt/polyfill.min.js
+https://www.att.com/acctmgmt/es5.js
+https://www.att.com/acctmgmt/src/global.js
+https://www.att.com/acctmgmt/src/yaku.js
+https://www.att.com/acctmgmt/ruxitagentjs_ICA7NVfghqrtux_10291240606133530.js
+https://www.att.com/acctmgmt/static/js/main.0d13ded2.js
+https://www.att.com/acctmgmt/static/js/cmsfeed.js
+https://www.att.com/acctmgmt/static/js/Underscore.js
+https://www.att.com/acctmgmt/static/js/assets/stub/wireless/subscriberDetails.json
+https://www.att.com/acctmgmt/static/js/assets/stub/overview/usage/snapshotUsageDetails.json
+https://www.att.com/acctmgmt/static/js/assets/stub/overview/GetRewardsAndBenifitsCardInfo.json
+https://www.att.com/acctmgmt/static/js/assets/stub/fanBenefit/fanBenefits_multi.json

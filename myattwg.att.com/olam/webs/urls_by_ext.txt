@@ -1,0 +1,13 @@
+
+############################
+ + html + 
+############################
+
+https://myattwg.att.com/olam/jsp/login/uverse/VS/UverseAccount.html
+https://myattwg.att.com/UverseAccount.html
+
+############################
+ + txt + 
+############################
+
+https://myattwg.att.com/robots.txt

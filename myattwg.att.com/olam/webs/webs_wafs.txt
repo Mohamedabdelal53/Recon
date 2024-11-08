@@ -1,0 +1,1 @@
+https://myattwg.att.com/olam/;https://myattwg.att.com/olam/?stwhsbhw=%3Cscript%3Ealert%28%22XSS%22%29%3B%3C%2Fscript%3E (Generic);Generic

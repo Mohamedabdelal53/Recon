@@ -1,0 +1,3 @@
+https://www.att.com/acctmgmt/polyfill.min.js
+https://www.att.com/acctmgmt/ruxitagentjs_ICA7NVfghqrtux_10291240606133530.js
+https://www.att.com/acctmgmt/static/js/main.0d13ded2.js

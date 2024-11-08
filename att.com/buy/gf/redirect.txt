@@ -1,0 +1,7 @@
+https://www.att.com/buy/thankyou?dev_ins=NONE&dev_plan=SDDVRP&dev_port=No&dev_skus=sku2360531%2CNOT_AVAILABLE&ordertype=UPG%E2%80%A6
+https://www.att.com/buy/cart?dclid=CJ-h9bb7legCFVSwTwodqToHqQ&retrieveCart=true&source=ECqf0000000000qwE&uuid=b739f2a7-9141-a610-8061-fc37e04e98f1&wtExtndSource=0320_mrpr_nat_a_cot1
+https://www.att.com/buy/cart?expandedview=true&retrieveCart=true
+https://www.att.com/buy/cart?couponcode=TV4YOU&dclid=CLGX3ff0s-sCFUl6wQodW9QIBA&retrieveCart=true&source=ECqf0000000000qwE&uuid=139212061&wtExtndSource=1119_nvdt_nat_e_call
+https://www.att.com/buy/cart?dclid=CNbD9aivtv4CFRCT7Aod5VUE2w&link_name=hero&retrieveCart=true&source=ECLJ000000000000E&uuid=242479773&wtExtndSource=0423_4scw_nat_a_ap1b
+https://www.att.com/buy/prepaid-phones/planconfig/prepaid.html?wlsview=plansfirst
+https://www.att.com/buy/byod?ab_test=new_byop_011819

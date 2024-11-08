@@ -1,0 +1,3 @@
+https://myattwg.att.com/olam/loginAction.olamexecute?target=MP
+https://myattwg.att.com/olam/loginAction.olamexecute?errorCode=LGN_06_08&source=wg&target=MPT
+https://myattwg.att.com/olam/unauth/fpwdEnterUserId.myworld?on_success_url=%2Folam%2Floginaction.olamexecut

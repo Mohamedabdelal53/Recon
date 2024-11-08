@@ -1,0 +1,15 @@
+https://clicks.att.com/OCT/eTrac?EMAIL_ID=391501261&finalURL=https%3A%2F%2Fwww.att.com%2Facctmgmt%2Flogin%3Fsource%3DEACQM0ftr0000000E&wtExtndSource=CPAY_X013EH
+https://clicks.att.com/OCT/eTrac?EMAIL_ID=99775634&finalURL=https%3A%2F%2Fwww.att.com%2Facctmgmt%2Fpassthrough%2Fsettings%3Fmanage-ap%3Dtrue&source=EACQM0gelAUTOPMYE&wtExtndSource=XPRA_X018EH
+https://clicks.att.com/OCT/eTrac?EMAIL_ID=1834812074&finalURL=https%3A%2F%2Fwww.att.com%2Facctmgmt%2Fregistration%3Forigination_point%3Doffer&orc=90572475&type=ttn
+https://clicks.att.com/OCT/eTrac?EMAIL_ID=183033548&finalURL=https%3A%2F%2Fwww.att.com%2Facctmgmt%2Fregistration%3Fsource%3DIA0z0A0000000000E&origination_point=newqar&token=Y_dPrLbEdCQ_Fpe4331p
+https://clicks.att.com/OCT/eTrac?EMAIL_ID=442130037&data=05%7C01%7Cjkitsmiller%40srnmj.org%7C8f486b3c8bec43b0c21708dabdbfc293%7Cfd27bcca777d473c8f0bfb0389f6f8b1%7C0%7C0%7C638030928724999398%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&finalURL=https%3A%2F%2Fwww.att.com%2Facctmgmt%2Flogin%3Fsource%3DEACQM0bdy0000000E&reserved=0&sdata=vqQjAWhzcGazaljCqI6S9ZdnceVjgCbuyMb15AyTe9Q%3D&wtExtndSource=CPAY_X013EH
+https://www.att.com/acctmgmt/login?dclid=CPH9__Tv6P4CFdkFrQYdTNAK-w&source=EC1N0000000wrt00E&wtExtndSource=0523_mynw_nat_a_myat
+https://www.att.com/acctmgmt/registration?client_id=m45917&from_page=webreg&generate_token=false&nonce=sdfdds8&origination_point=dtvstream&redirect_uri=&response_mode=form_post&return_url=https%3A%2F%2Foidc.idp.clogin.att.com%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fresponse_type%3Did_token&scope=openid&state=HALODTV
+https://www.att.com/acctmgmt/passthrough/settings?dclid=CPLWs-nv6P4CFdPHWwodO7sFXg&manage-ap=true&source=IYPO000000000000U&wtExtndSource=vanity-autopay
+https://www.att.com/acctmgmt/passthrough/planconfigurator?dclid=CNP_9sLw6P4CFRgNrQYdCJUMWw&source=EC1N0000000wrt00E&wtExtndSource=0523_mynw_nat_a_adin
+https://www.att.com/acctmgmt/accountoverview?dclid=CMTw-sPw6P4CFdYOrQYdQH8N2w&source=EC1N0000000wrt00E&wtExtndSource=0523_mynw_nat_a_myad
+https://www.att.com/acctmgmt/makepayment?merchantReference=+qJ1QFDxhC%2FKBUQRB+zqaA%3D%3D%7C1626230066442&panel=1&payment.paymentProviderTransaction.status=UC01&payment.paymentType=6&pwmbCancel=&reqID=e293704d6bfac3d837088c1b536aa185f081ec4d&requestSignature=I%2FrxqExjUl42yM0xNAacHlbNwjg%3D&status=7&transactionId=4455178595&transactionType=1
+https://www.att.com/acctmgmt/passthrough/addondeeplink?dclid=COuC79Xrm4ADFfQCrQYdmM4GYg&level=CAT&soc=PA4TIERS&source=ECOr0000000MCM00E&wtExtndSource=0723_pat1_nat_a_cta2
+https://www.att.com/acctmgmt/passthrough/accountoverview?haloSuccess=true&loginRedirect=true&selectedAcct=534182385294
+http://www.att.com/acctmgmt/tobr/transferOverview?accountLookupId=1eaad752bed5f3e9d60689d34c8919b2e1dbed3c06e094a713aeb326e5f7e2cb
+https://ocprd.att.com/OCT/eTrac?EMAIL_ID=198896076&finalURL=https%3A%2F%2Fwww.att.com%2Facctmgmt%2Flogin

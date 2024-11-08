@@ -1,0 +1,5 @@
+MP
+MPT
+wg
+LGN_06_08
+/olam/loginaction.olamexecut

@@ -1,0 +1,46 @@
+{
+  "timestamp": "2024-11-07T12:44:16.860927483-06:00",
+  "hash": {
+    "body_md5": "7d0ec2744431e232e308c5b690fb9ffa",
+    "body_mmh3": "-1759262276",
+    "body_sha256": "5e75b6ff9425c24a7bb7f5c4ea9194a1f53286802dc52c6a63b82081b06879d3",
+    "body_simhash": "9958511337946593213",
+    "header_md5": "142857c3d400455ea486e5a00095a62f",
+    "header_mmh3": "-1678404024",
+    "header_sha256": "e94adeaa39da4cf917f625b19d404b8e3981e139686094f2dac2b24030c13f91",
+    "header_simhash": "9868395168467236846"
+  },
+  "port": "443",
+  "url": "https://att.com/buy/",
+  "input": "att.com/buy/",
+  "title": "Shop",
+  "scheme": "https",
+  "content_type": "text/html",
+  "method": "GET",
+  "host": "144.160.155.43",
+  "path": "/buy/",
+  "final_url": "https://www.att.com/buy/",
+  "time": "686.480382ms",
+  "chain_status_codes": [
+    301,
+    200
+  ],
+  "a": [
+    "144.160.155.43",
+    "144.160.36.42"
+  ],
+  "tech": [
+    "Akamai",
+    "Akamai Bot Manager",
+    "HSTS"
+  ],
+  "words": 5523,
+  "lines": 482,
+  "status_code": 200,
+  "content_length": 250926,
+  "failed": false,
+  "knowledgebase": {
+    "PageType": "nonerror",
+    "pHash": 0
+  }
+}

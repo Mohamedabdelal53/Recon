@@ -1,0 +1,9 @@
+https://www.att.com/buy/phones?bref=EBSAAB00000n1400&manufacturer=Apple&wtLinkLoc=calltoaction&wtLinkName=Shopnow
+https://www.att.com/buy/thankyou?dev_ins=NONE&dev_plan=SDDVRP&dev_port=No&dev_skus=sku2360531%2CNOT_AVAILABLE&ordertype=UPG%E2%80%A6
+https://www.att.com/buy/cart?expandedview=true&retrieveCart=true
+https://www.att.com/buy/cart?dclid=CNbD9aivtv4CFRCT7Aod5VUE2w&link_name=hero&retrieveCart=true&source=ECLJ000000000000E&uuid=242479773&wtExtndSource=0423_4scw_nat_a_ap1b
+https://www.att.com/buy/phones/samsung-galaxy-s22-128gb-pink-gold.html?dclid=CIOej5ej4vYCFUQZfQodGv8KYA&link_name=&offerid=20700020&preheader=&source=EC1N0000000waa00E&wtExtndSource=0322_mxcm_nat_r_as22
+https://www.att.com/buy/phones/samsung-galaxy-s22-128gb-pink-gold.html?dclid=CPns5Juj4vYCFZg_rQYdC6sMVA&link_name=&newepic=&offerid=20700020&source=EC1N0000000waa00E&wtExtndSource=0322_mxcm_nat_r_as22
+https://www.att.com/buy/phones/samsung-galaxy-s22-128gb-pink-gold.html?dclid=CPjksZmj4vYCFcsqrQYdN0oCQQ&link_name=&offerid=20700020&shopnow=&source=EC1N0000000waa00E&wtExtndSource=0322_mxcm_nat_r_as22
+https://www.att.com/buy/phones/samsung-galaxy-s22-ultra-128gb-burgundy.html?dclid=CLeXxJ2j4vYCFZserQYdmjwHYg&link_name=&offerid=20700022&s22ultra=&source=EC1N0000000waa00E&wtExtndSource=0322_mxcm_nat_r_s2u2
+https://www.att.com/buy/prepaid-phones/planconfig/prepaid.html?wlsview=plansfirst

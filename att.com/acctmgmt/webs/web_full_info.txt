@@ -1,0 +1,46 @@
+{
+  "timestamp": "2024-11-07T13:10:35.346709944-06:00",
+  "hash": {
+    "body_md5": "acab63098d9ea2a9ba1647ab7c86aeaa",
+    "body_mmh3": "-700109746",
+    "body_sha256": "ee2b49d10f495dac6ccb26a22955d6a5bb6406c2e48e3d88542ac8ce71365f65",
+    "body_simhash": "9958511337946593213",
+    "header_md5": "2f7a9d2dc9aa5265c3f2eb32be0c0fff",
+    "header_mmh3": "1259296338",
+    "header_sha256": "ae88a936394c4f723f98def4206bc7ff8da6c61d807804e7f4b85f6846557cd4",
+    "header_simhash": "9868122480993613802"
+  },
+  "port": "443",
+  "url": "https://att.com/acctmgmt/",
+  "input": "att.com/acctmgmt/",
+  "title": "AT&T",
+  "scheme": "https",
+  "content_type": "text/html",
+  "method": "GET",
+  "host": "144.160.36.42",
+  "path": "/acctmgmt/",
+  "final_url": "https://www.att.com/acctmgmt/",
+  "time": "625.760355ms",
+  "chain_status_codes": [
+    301,
+    200
+  ],
+  "a": [
+    "144.160.36.42",
+    "144.160.155.43"
+  ],
+  "tech": [
+    "Akamai",
+    "Akamai Bot Manager",
+    "HSTS"
+  ],
+  "words": 5608,
+  "lines": 490,
+  "status_code": 200,
+  "content_length": 251200,
+  "failed": false,
+  "knowledgebase": {
+    "PageType": "nonerror",
+    "pHash": 0
+  }
+}

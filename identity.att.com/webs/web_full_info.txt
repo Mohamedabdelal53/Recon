@@ -1,0 +1,46 @@
+{
+  "timestamp": "2024-11-07T16:50:46.703691819-06:00",
+  "hash": {
+    "body_md5": "7dc5c17c052126577701be1513fe23c1",
+    "body_mmh3": "2092544761",
+    "body_sha256": "53735aeba337153497fa6988aae5fa79cc1b930bc9c6f35021c3aff23a3e0dbb",
+    "body_simhash": "17920307101506540314",
+    "header_md5": "a093a4fc01da87aa07aa1dba21704485",
+    "header_mmh3": "-377184717",
+    "header_sha256": "1e48580f0301f2e785036528db3edde3d5e318ed5364fa1857d24338ee813a5f",
+    "header_simhash": "9868113684967700463"
+  },
+  "port": "443",
+  "url": "https://identity.att.com",
+  "input": "identity.att.com",
+  "scheme": "https",
+  "content_type": "text/html",
+  "method": "GET",
+  "host": "184.31.3.229",
+  "path": "/",
+  "time": "379.538489ms",
+  "a": [
+    "184.31.3.229",
+    "2600:1480:2000:103::"
+  ],
+  "cname": [
+    "lsreg.att.com.edgekey.net",
+    "lsreg.att.com.splitter-eip.akadns.net",
+    "lsreg.att.com.eip.akadns.net",
+    "eip-tata.lsreg.att.com.akahost.net"
+  ],
+  "tech": [
+    "Akamai",
+    "Akamai Bot Manager",
+    "HSTS"
+  ],
+  "words": 230,
+  "lines": 18,
+  "status_code": 200,
+  "content_length": 873,
+  "failed": false,
+  "knowledgebase": {
+    "PageType": "other",
+    "pHash": 0
+  }
+}

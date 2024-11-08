@@ -1,0 +1,4 @@
+https://www.att.com/buy/thankyou?dev_ins=NONE&dev_plan=SDDVRP&dev_port=No&dev_skus=sku2360531%2CNOT_AVAILABLE&ordertype=UPG%E2%80%A6
+https://www.att.com/buy/byod?ab_test=new_byop_011819
+https://www.att.com/buy/cart?expandedview=true&retrieveCart=true
+https://www.att.com/buy/prepaid-phones/planconfig/prepaid.html?wlsview=plansfirst

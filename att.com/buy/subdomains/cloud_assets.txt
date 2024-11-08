@@ -1,0 +1,178 @@
+Protected S3 Bucket: http://att.s3.amazonaws.com/
+Protected S3 Bucket: http://att01.s3.amazonaws.com/
+Protected S3 Bucket: http://att1.s3.amazonaws.com/
+Protected S3 Bucket: http://att2.s3.amazonaws.com/
+Protected S3 Bucket: http://att2020.s3.amazonaws.com/
+Protected S3 Bucket: http://att-administrator.s3.amazonaws.com/
+Protected S3 Bucket: http://attae.s3.amazonaws.com/
+Protected S3 Bucket: http://att-analytics.s3.amazonaws.com/
+Protected S3 Bucket: http://att-artifacts.s3.amazonaws.com/
+Protected S3 Bucket: http://assets-att.s3.amazonaws.com/
+Protected S3 Bucket: http://attaudit.s3.amazonaws.com/
+Protected S3 Bucket: http://att-audit.s3.amazonaws.com/
+Protected S3 Bucket: http://aws-att.s3.amazonaws.com/
+Protected S3 Bucket: http://att-backup.s3.amazonaws.com/
+Protected S3 Bucket: http://attbackups.s3.amazonaws.com/
+Protected S3 Bucket: http://att-backups.s3.amazonaws.com/
+Protected S3 Bucket: http://att-beta.s3.amazonaws.com/
+Protected S3 Bucket: http://billing-att.s3.amazonaws.com/
+Protected S3 Bucket: http://attbucket.s3.amazonaws.com/
+Protected S3 Bucket: http://att-bucket.s3.amazonaws.com/
+Protected S3 Bucket: http://bucket-att.s3.amazonaws.com/
+Protected S3 Bucket: http://attcdn.s3.amazonaws.com/
+Protected S3 Bucket: http://att-cdn.s3.amazonaws.com/
+Protected S3 Bucket: http://ceatt.s3.amazonaws.com/
+Protected S3 Bucket: http://att-cf.s3.amazonaws.com/
+Protected S3 Bucket: http://att.com.s3.amazonaws.com/
+Protected S3 Bucket: http://att-data.s3.amazonaws.com/
+Protected S3 Bucket: http://attdataflow.s3.amazonaws.com/
+Protected S3 Bucket: http://attdev.s3.amazonaws.com/
+OPEN S3 BUCKET: http://att.dev.s3.amazonaws.com/
+Protected S3 Bucket: http://att-dev.s3.amazonaws.com/
+Protected S3 Bucket: http://att-docs.s3.amazonaws.com/
+Protected S3 Bucket: http://att-download.s3.amazonaws.com/
+Protected S3 Bucket: http://download-att.s3.amazonaws.com/
+Protected S3 Bucket: http://att-downloads.s3.amazonaws.com/
+Protected S3 Bucket: http://attendpoints.s3.amazonaws.com/
+Protected S3 Bucket: http://attes.s3.amazonaws.com/
+Protected S3 Bucket: http://att-export.s3.amazonaws.com/
+Protected S3 Bucket: http://attfiles.s3.amazonaws.com/
+Protected S3 Bucket: http://att-files.s3.amazonaws.com/
+Protected S3 Bucket: http://files-att.s3.amazonaws.com/
+OPEN S3 BUCKET: http://att-gateway.s3.amazonaws.com/
+Protected S3 Bucket: http://att-git.s3.amazonaws.com/
+Protected S3 Bucket: http://att-gitlab.s3.amazonaws.com/
+Protected S3 Bucket: http://attimages.s3.amazonaws.com/
+Protected S3 Bucket: http://att-images.s3.amazonaws.com/
+Protected S3 Bucket: http://attlogs.s3.amazonaws.com/
+Protected S3 Bucket: http://att-logs.s3.amazonaws.com/
+Protected S3 Bucket: http://logs-att.s3.amazonaws.com/
+Protected S3 Bucket: http://att-logstash.s3.amazonaws.com/
+Protected S3 Bucket: http://att-main.s3.amazonaws.com/
+Protected S3 Bucket: http://att.mobile.s3.amazonaws.com/
+Protected S3 Bucket: http://att-ops.s3.amazonaws.com/
+Protected S3 Bucket: http://ops-att.s3.amazonaws.com/
+Protected S3 Bucket: http://att-private.s3.amazonaws.com/
+Protected S3 Bucket: http://att-prod.s3.amazonaws.com/
+Protected S3 Bucket: http://prod-att.s3.amazonaws.com/
+Protected S3 Bucket: http://att-production.s3.amazonaws.com/
+Protected S3 Bucket: http://production-att.s3.amazonaws.com/
+Protected S3 Bucket: http://attproject.s3.amazonaws.com/
+Protected S3 Bucket: http://att.project.s3.amazonaws.com/
+Protected S3 Bucket: http://attprojects.s3.amazonaws.com/
+Protected S3 Bucket: http://attpublic.s3.amazonaws.com/
+Protected S3 Bucket: http://att-public.s3.amazonaws.com/
+Protected S3 Bucket: http://att-qa.s3.amazonaws.com/
+Protected S3 Bucket: http://att-reports.s3.amazonaws.com/
+OPEN S3 BUCKET: http://att-resources.s3.amazonaws.com/
+OPEN S3 BUCKET: http://s3-att.s3.amazonaws.com/
+Protected S3 Bucket: http://att-share.s3.amazonaws.com/
+Protected S3 Bucket: http://att-staging.s3.amazonaws.com/
+Protected S3 Bucket: http://attstorage.s3.amazonaws.com/
+Protected S3 Bucket: http://att-support.s3.amazonaws.com/
+Protected S3 Bucket: http://att-temp.s3.amazonaws.com/
+Protected S3 Bucket: http://tempatt.s3.amazonaws.com/
+Protected S3 Bucket: http://att-templates.s3.amazonaws.com/
+Protected S3 Bucket: http://atttest.s3.amazonaws.com/
+Protected S3 Bucket: http://att-test.s3.amazonaws.com/
+Protected S3 Bucket: http://testatt.s3.amazonaws.com/
+Protected S3 Bucket: http://test-att.s3.amazonaws.com/
+Protected S3 Bucket: http://att-training.s3.amazonaws.com/
+Protected S3 Bucket: http://attuploads.s3.amazonaws.com/
+Protected S3 Bucket: http://videos-att.s3.amazonaws.com/
+Protected S3 Bucket: http://vmatt.s3.amazonaws.com/
+Protected S3 Bucket: http://vm-att.s3.amazonaws.com/
+Protected S3 Bucket: http://attweb.s3.amazonaws.com/
+Protected S3 Bucket: http://att-web.s3.amazonaws.com/
+Protected S3 Bucket: http://web-att.s3.amazonaws.com/
+Protected S3 Bucket: http://attwebsite.s3.amazonaws.com/
+AWS App Found:: https://att01.awsapps.com
+AWS App Found:: https://attiot.awsapps.com
+AWS App Found:: https://attservices.awsapps.com
+HTTPS-Only Storage Account: http://att.blob.core.windows.net/
+HTTPS-Only Storage Account: http://attadmin.blob.core.windows.net/
+HTTPS-Only Storage Account: http://attcontainer.blob.core.windows.net/
+HTTPS-Only Storage Account: http://attdata.blob.core.windows.net/
+HTTPS-Only Storage Account: http://attdev.blob.core.windows.net/
+HTTPS-Only Storage Account: http://attfiles.blob.core.windows.net/
+HTTPS-Only Storage Account: http://attfileshare.blob.core.windows.net/
+HTTPS-Only Storage Account: http://attfunctions.blob.core.windows.net/
+HTTPS-Only Storage Account: http://gsatt.blob.core.windows.net/
+HTTP-OK Storage Account: http://attstorage.blob.core.windows.net/
+HTTP-OK Storage Account: http://storageatt.blob.core.windows.net/
+HTTP-OK Storage Account: http://attstore.blob.core.windows.net/
+HTTPS-Only Storage Account: http://atttest.blob.core.windows.net/
+Registered Azure Website DNS Name: att.azurewebsites.net
+Registered Azure Website DNS Name: dev-att.azurewebsites.net
+Registered Azure Website DNS Name: att-events.azurewebsites.net
+Registered Azure Website DNS Name: att-functions.azurewebsites.net
+Registered Azure Website DNS Name: att-net.azurewebsites.net
+Registered Azure Website DNS Name: att-qa.azurewebsites.net
+Registered Azure Website DNS Name: attreports.azurewebsites.net
+Registered Azure Website DNS Name: stage-att.azurewebsites.net
+Registered Azure Database DNS Name: att.database.windows.net
+Registered Azure Database DNS Name: attcloud.database.windows.net
+Registered Azure Database DNS Name: att-test.database.windows.net
+Registered Azure Database DNS Name: attweb.database.windows.net
+Registered Azure Virtual Machine DNS Name: attprod.eastus.cloudapp.azure.com
+Protected Google Bucket: http://storage.googleapis.com/att
+Protected Google Bucket: http://storage.googleapis.com/att1
+Protected Google Bucket: http://storage.googleapis.com/att2
+Protected Google Bucket: http://storage.googleapis.com/att-5
+Protected Google Bucket: http://storage.googleapis.com/att-6
+Protected Google Bucket: http://storage.googleapis.com/att-administrator
+Protected Google Bucket: http://storage.googleapis.com/att-analytics
+Protected Google Bucket: http://storage.googleapis.com/att-artifacts
+Protected Google Bucket: http://storage.googleapis.com/att-assets
+Protected Google Bucket: http://storage.googleapis.com/att-audit
+Protected Google Bucket: http://storage.googleapis.com/att-backup
+Protected Google Bucket: http://storage.googleapis.com/att-backups
+Protected Google Bucket: http://storage.googleapis.com/att-beta
+Protected Google Bucket: http://storage.googleapis.com/attbucket
+Protected Google Bucket: http://storage.googleapis.com/att-bucket
+Protected Google Bucket: http://storage.googleapis.com/bucket-att
+Protected Google Bucket: http://storage.googleapis.com/att-data
+Protected Google Bucket: http://storage.googleapis.com/att-datastore
+Protected Google Bucket: http://storage.googleapis.com/dbatt
+Protected Google Bucket: http://storage.googleapis.com/att-dev
+Protected Google Bucket: http://storage.googleapis.com/attdocs
+Protected Google Bucket: http://storage.googleapis.com/att-downloads
+Protected Google Bucket: http://storage.googleapis.com/dratt
+Protected Google Bucket: http://storage.googleapis.com/att-export
+Protected Google Bucket: http://storage.googleapis.com/att-fileshare
+Protected Google Bucket: http://storage.googleapis.com/att-git
+Protected Google Bucket: http://storage.googleapis.com/att-gitlab
+Protected Google Bucket: http://storage.googleapis.com/attimages
+OPEN GOOGLE BUCKET: http://storage.googleapis.com/att-images
+Protected Google Bucket: http://storage.googleapis.com/att-img
+OPEN GOOGLE BUCKET: http://storage.googleapis.com/att-landing
+Protected Google Bucket: http://storage.googleapis.com/att-logs
+Protected Google Bucket: http://storage.googleapis.com/att-logstash
+Protected Google Bucket: http://storage.googleapis.com/att-ops
+Protected Google Bucket: http://storage.googleapis.com/att-prod
+Protected Google Bucket: http://storage.googleapis.com/att-storage
+Protected Google Bucket: http://storage.googleapis.com/att-temp
+Protected Google Bucket: http://storage.googleapis.com/att-templates
+Protected Google Bucket: http://storage.googleapis.com/atttest
+Protected Google Bucket: http://storage.googleapis.com/att-test
+Protected Google Bucket: http://storage.googleapis.com/testatt
+OPEN GOOGLE BUCKET: http://storage.googleapis.com/attweb
+Protected Google Bucket: http://storage.googleapis.com/att-web
+OPEN GOOGLE FIREBASE RTDB: https://alpha-att.firebaseio.com/.json
+The Firebase database has been deactivated.: https://att-android.firebaseio.com/.json
+Protected Google Firebase RTDB: https://att-blog.firebaseio.com/.json
+Protected Google Firebase RTDB: https://att-core.firebaseio.com/.json
+Protected Google Firebase RTDB: https://databaseatt.firebaseio.com/.json
+Protected Google Firebase RTDB: https://att-events.firebaseio.com/.json
+The Firebase database has been deactivated.: https://attfirebase.firebaseio.com/.json
+Protected Google Firebase RTDB: https://att-media.firebaseio.com/.json
+Protected Google Firebase RTDB: https://ml-att.firebaseio.com/.json
+Protected Google Firebase RTDB: https://mobile-att.firebaseio.com/.json
+OPEN GOOGLE FIREBASE RTDB: https://att-net.firebaseio.com/.json
+Protected Google Firebase RTDB: https://att-pro.firebaseio.com/.json
+OPEN GOOGLE FIREBASE RTDB: https://att-services.firebaseio.com/.json
+Protected Google Firebase RTDB: https://test-att.firebaseio.com/.json
+OPEN GOOGLE FIREBASE RTDB: https://att-web.firebaseio.com/.json
+Open Google App Engine app: http://appatt.appspot.com/login
+Open Google App Engine app: http://att-users.appspot.com/
+Open Google App Engine app: http://att-website.appspot.com/

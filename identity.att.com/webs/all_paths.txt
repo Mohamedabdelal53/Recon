@@ -1,0 +1,6 @@
+https://identity.att.com/
+https://identity.att.com/identity-ui/fid/lander
+https://identity.att.com/identity
+https://identity.att.com/robots.txt
+http://identity.att.com/
+https://identity.att.com

@@ -1,0 +1,30 @@
+[waf-detect:bigip] [http] [info] https://att.com/msapi
+[waf-detect:bigip] [http] [info] https://att.com/msapi
+[tls-version] [ssl] [info] att.com:443 ["tls12"]
+[missing-csp] [http] [info] https://www.att.com/msapi/
+[missing-csp] [http] [info] https://www.att.com/msapi/
+[missing-csp] [http] [info] https://www.att.com/msapi
+[missing-csp] [http] [info] https://att.com/msapi
+[missing-csp] [http] [info] https://www.att.com/msapi
+[missing-csp] [http] [info] https://att.com/msapi
+[bigip-detect] [http] [info] https://att.com/msapi
+[bigip-detect] [http] [info] https://att.com/msapi
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["A1-187.AKAM.NET","A11-65.AKAM.NET","A2-64.AKAM.NET","A22-67.AKAM.NET","A4-64.AKAM.NET","A5-66.AKAM.NET"]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["false"]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["server transfer prohibited","server update prohibited","client transfer prohibited","server delete prohibited"]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["1986-04-25T05:00:00Z"]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["2024-04-22T05:15:47Z"]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["2025-04-26T04:00:00Z"]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["client transfer prohibited","server delete prohibited","server transfer prohibited","server update prohibited"]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["1986-04-25T05:00:00Z"]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["2024-04-22T05:15:47Z"]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["2025-04-26T04:00:00Z"]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["A1-187.AKAM.NET","A11-65.AKAM.NET","A2-64.AKAM.NET","A22-67.AKAM.NET","A4-64.AKAM.NET","A5-66.AKAM.NET"]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["false"]
+[nameserver-fingerprint] [dns] [info] att.com ["a11-65.akam.net.","a2-64.akam.net.","a5-66.akam.net.","a22-67.akam.net.","a4-64.akam.net.","a1-187.akam.net."]
+[caa-fingerprint] [dns] [info] att.com
+[caa-fingerprint] [dns] [info] att.com/msapi
+[ssl-issuer] [ssl] [info] att.com:443 ["DigiCert Inc"]
+[ssl-dns-names] [ssl] [info] att.com:443 ["att.com","att.net"]
+[mx-fingerprint] [dns] [info] att.com ["10 mx0b-00191d01.pphosted.com.","10 mx0a-00191d01.pphosted.com."]
+[dmarc-detect] [dns] [info] _dmarc.att.com [""v=DMARC1; p=none; fo=1; rua=mailto:dmarc_rua@emaildefense.proofpoint.com; ruf=mailto:dmarc_ruf@emaildefense.proofpoint.com""]

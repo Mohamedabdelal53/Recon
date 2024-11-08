@@ -1,0 +1,30 @@
+[waf-detect:bigip] [http] [info] https://att.com/buy/
+[waf-detect:bigip] [http] [info] https://att.com/buy/
+[tls-version] [ssl] [info] att.com:443 ["tls12"]
+[bigip-detect] [http] [info] https://att.com/buy/
+[bigip-detect] [http] [info] https://att.com/buy/
+[missing-csp] [http] [info] https://www.att.com/buy/
+[missing-csp] [http] [info] https://www.att.com/buy/
+[missing-csp] [http] [info] https://att.com/buy/
+[missing-csp] [http] [info] https://att.com/buy/
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["2025-04-26T04:00:00Z"]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["A4-64.AKAM.NET","A5-66.AKAM.NET","A1-187.AKAM.NET","A11-65.AKAM.NET","A2-64.AKAM.NET","A22-67.AKAM.NET"]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["false"]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["client transfer prohibited","server delete prohibited","server transfer prohibited","server update prohibited"]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["1986-04-25T05:00:00Z"]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["2024-04-22T05:15:47Z"]
+[caa-fingerprint] [dns] [info] att.com/buy/
+[caa-fingerprint] [dns] [info] att.com
+[dmarc-detect] [dns] [info] _dmarc.att.com [""v=DMARC1; p=none; fo=1; rua=mailto:dmarc_rua@emaildefense.proofpoint.com; ruf=mailto:dmarc_ruf@emaildefense.proofpoint.com""]
+[mx-fingerprint] [dns] [info] att.com ["10 mx0a-00191d01.pphosted.com.","10 mx0b-00191d01.pphosted.com."]
+[spf-record-detect] [dns] [info] att.com ["v=spf1 include:%{ir}.%{v}.%{d}.spf.has.pphosted.com ~all""]
+[txt-fingerprint] [dns] [info] att.com [""safebreach-domain-verification=87a47aa8-9dcf-4fc6-a0dc-645f6d8f16b7"",""onetrust-domain-verification=8ec279170ab14b708f0330e786a9619e"",""asv=811eb48ffe1a2bd2ca5ba9d4bc7d9737"",""smartsheet-site-validation=p-TbLkF_n2KWTVSks3oGAlqmEY11P06i"",""TXT=apple-domain-verification=qvUUeo4rzNYBawy1GneDePGHTd_5bbfaFla5mf1Rql8"",""smartsheet-site-validation=WTesoI8BTRnVCtpax7RXsu095_-01e-g"",""smartsheet-site-validation=xn6t8IWievWUEBY9LJQzhTPfVsa5dWTk"",""google-site-verification=TDlxuIuUQhu-wSUgoz8Tuvpeevqqo4Kge7S-EJFFzrA"",""cisco-ci-domain-verification=3d21883a6bafd629173aea778e9e524288c5b6d037f0c3d6c5502e26de950929"",""google-site-verification=aEiNNWvbfCYfvmE1MB5FDlfTOXscCUfCQSBf5BsZnFQ"",""canva-site-verification=xZkTnltkjuFr7azCq9432w"",""BeJQ5GrhdR+RKZkfNVneBsIUT2NVqTZB01Y2FXf2+THpvzgedgBjuxOsk3Ub41a8xwwOOxLu+mJTFDrYINC2nw=="",""google-site-verification=61mMnbAFkug5Ga66TxJwJnHrccqsdXgjaYX4Dzh4fg4"",""MS=ms45660825"",""apple-domain-verification=qvUUeo4rzNYBawy1GneDePGHTd_5bbfaFla5mf1Rql8"",""v=spf1 include:%{ir}.%{v}.%{d}.spf.has.pphosted.com ~all"",""4879c66f-d011-43dc-873c-ce5803b4d5a7"",""figma-domain-verification=3818f0fcaa32c5ce227b1121b999753e8708a904218ffd805789e9e388d3b2b1-1726063491"",""docker-verification=232baaa1-27ce-477a-a437-abe005244414"",""google-site-verification=_tbHFE4ZquVgPnU4yn9c8mM4AwjDcnyvHYpUyY9W9A0"",""2a35e1cb-656a-4618-b343-cb814065d867"",""Dynatrace-site-verification=26243c34-7393-4498-bfcd-7a0cc073ef06__limahdkrv1bd21697aol40vunm"",""smartsheet-site-validation=YXtB3id9XhZfupfHmACXFew-Tegm1G_p"",""mixpanel-domain-verify=29364abe-5921-4f15-b1f9-92c168b99888"",""docusign=7c207f4f-1463-48ab-8a42-401d5a790153"",""mongodb-site-verification=XeRo7LCGNcMSCGuvCKB6RHi7fZwUjRIW"",""flexera-domain-verification-imnjnkcqfpmvinpy""]
+[nameserver-fingerprint] [dns] [info] att.com ["a1-187.akam.net.","a4-64.akam.net.","a5-66.akam.net.","a2-64.akam.net.","a11-65.akam.net.","a22-67.akam.net."]
+[ssl-issuer] [ssl] [info] att.com:443 ["DigiCert Inc"]
+[ssl-dns-names] [ssl] [info] att.com:443 ["att.com","att.net"]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["2024-04-22T05:15:47Z"]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["2025-04-26T04:00:00Z"]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["A1-187.AKAM.NET","A11-65.AKAM.NET","A2-64.AKAM.NET","A22-67.AKAM.NET","A4-64.AKAM.NET","A5-66.AKAM.NET"]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["false"]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["client transfer prohibited","server delete prohibited","server transfer prohibited","server update prohibited"]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/att.com ["1986-04-25T05:00:00Z"]

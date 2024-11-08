@@ -1,0 +1,90 @@
+AWS App Found:: https://att01.awsapps.com
+AWS App Found:: https://attiot.awsapps.com
+AWS App Found:: https://attservices.awsapps.com
+HTTPS-Only Storage Account: http://att.blob.core.windows.net/
+HTTPS-Only Storage Account: http://attadmin.blob.core.windows.net/
+HTTPS-Only Storage Account: http://attcontainer.blob.core.windows.net/
+HTTPS-Only Storage Account: http://attdata.blob.core.windows.net/
+HTTPS-Only Storage Account: http://attdev.blob.core.windows.net/
+HTTPS-Only Storage Account: http://attfiles.blob.core.windows.net/
+HTTPS-Only Storage Account: http://attfileshare.blob.core.windows.net/
+HTTPS-Only Storage Account: http://attfunctions.blob.core.windows.net/
+HTTPS-Only Storage Account: http://gsatt.blob.core.windows.net/
+HTTP-OK Storage Account: http://attstorage.blob.core.windows.net/
+HTTP-OK Storage Account: http://storageatt.blob.core.windows.net/
+HTTP-OK Storage Account: http://attstore.blob.core.windows.net/
+HTTPS-Only Storage Account: http://atttest.blob.core.windows.net/
+Registered Azure Website DNS Name: att.azurewebsites.net
+Registered Azure Website DNS Name: dev-att.azurewebsites.net
+Registered Azure Website DNS Name: att-events.azurewebsites.net
+Registered Azure Website DNS Name: att-functions.azurewebsites.net
+Registered Azure Website DNS Name: att-net.azurewebsites.net
+Registered Azure Website DNS Name: att-qa.azurewebsites.net
+Registered Azure Website DNS Name: attreports.azurewebsites.net
+Registered Azure Website DNS Name: stage-att.azurewebsites.net
+Registered Azure Database DNS Name: att.database.windows.net
+Registered Azure Database DNS Name: attcloud.database.windows.net
+Registered Azure Database DNS Name: att-test.database.windows.net
+Registered Azure Database DNS Name: attweb.database.windows.net
+Registered Azure Virtual Machine DNS Name: attprod.eastus.cloudapp.azure.com
+Protected Google Bucket: http://storage.googleapis.com/att
+Protected Google Bucket: http://storage.googleapis.com/att1
+Protected Google Bucket: http://storage.googleapis.com/att2
+Protected Google Bucket: http://storage.googleapis.com/att-5
+Protected Google Bucket: http://storage.googleapis.com/att-6
+Protected Google Bucket: http://storage.googleapis.com/att-administrator
+Protected Google Bucket: http://storage.googleapis.com/att-analytics
+Protected Google Bucket: http://storage.googleapis.com/att-artifacts
+Protected Google Bucket: http://storage.googleapis.com/att-assets
+Protected Google Bucket: http://storage.googleapis.com/att-audit
+Protected Google Bucket: http://storage.googleapis.com/att-backup
+Protected Google Bucket: http://storage.googleapis.com/att-backups
+Protected Google Bucket: http://storage.googleapis.com/att-beta
+Protected Google Bucket: http://storage.googleapis.com/attbucket
+Protected Google Bucket: http://storage.googleapis.com/att-bucket
+Protected Google Bucket: http://storage.googleapis.com/bucket-att
+Protected Google Bucket: http://storage.googleapis.com/att-data
+Protected Google Bucket: http://storage.googleapis.com/att-datastore
+Protected Google Bucket: http://storage.googleapis.com/dbatt
+Protected Google Bucket: http://storage.googleapis.com/att-dev
+Protected Google Bucket: http://storage.googleapis.com/attdocs
+Protected Google Bucket: http://storage.googleapis.com/att-downloads
+Protected Google Bucket: http://storage.googleapis.com/dratt
+Protected Google Bucket: http://storage.googleapis.com/att-export
+Protected Google Bucket: http://storage.googleapis.com/att-fileshare
+Protected Google Bucket: http://storage.googleapis.com/att-git
+Protected Google Bucket: http://storage.googleapis.com/att-gitlab
+Protected Google Bucket: http://storage.googleapis.com/attimages
+OPEN GOOGLE BUCKET: http://storage.googleapis.com/att-images
+Protected Google Bucket: http://storage.googleapis.com/att-img
+OPEN GOOGLE BUCKET: http://storage.googleapis.com/att-landing
+Protected Google Bucket: http://storage.googleapis.com/att-logs
+Protected Google Bucket: http://storage.googleapis.com/att-logstash
+Protected Google Bucket: http://storage.googleapis.com/att-ops
+Protected Google Bucket: http://storage.googleapis.com/att-prod
+Protected Google Bucket: http://storage.googleapis.com/att-storage
+Protected Google Bucket: http://storage.googleapis.com/att-temp
+Protected Google Bucket: http://storage.googleapis.com/att-templates
+Protected Google Bucket: http://storage.googleapis.com/atttest
+Protected Google Bucket: http://storage.googleapis.com/att-test
+Protected Google Bucket: http://storage.googleapis.com/testatt
+OPEN GOOGLE BUCKET: http://storage.googleapis.com/attweb
+Protected Google Bucket: http://storage.googleapis.com/att-web
+OPEN GOOGLE FIREBASE RTDB: https://alpha-att.firebaseio.com/.json
+The Firebase database has been deactivated.: https://att-android.firebaseio.com/.json
+Protected Google Firebase RTDB: https://att-blog.firebaseio.com/.json
+Protected Google Firebase RTDB: https://att-core.firebaseio.com/.json
+Protected Google Firebase RTDB: https://databaseatt.firebaseio.com/.json
+Protected Google Firebase RTDB: https://att-events.firebaseio.com/.json
+The Firebase database has been deactivated.: https://attfirebase.firebaseio.com/.json
+Protected Google Firebase RTDB: https://att-media.firebaseio.com/.json
+Protected Google Firebase RTDB: https://ml-att.firebaseio.com/.json
+Protected Google Firebase RTDB: https://mobile-att.firebaseio.com/.json
+OPEN GOOGLE FIREBASE RTDB: https://att-net.firebaseio.com/.json
+Protected Google Firebase RTDB: https://att-pro.firebaseio.com/.json
+OPEN GOOGLE FIREBASE RTDB: https://att-services.firebaseio.com/.json
+Protected Google Firebase RTDB: https://test-att.firebaseio.com/.json
+OPEN GOOGLE FIREBASE RTDB: https://att-web.firebaseio.com/.json
+Open Google App Engine app: http://appatt.appspot.com/login
+Open Google App Engine app: http://att-users.appspot.com/
+Open Google App Engine app: http://att-website.appspot.com/
